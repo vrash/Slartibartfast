@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+Hello there! My name is <b>Vrashabh Irde</b>. 
 
-You can use the [editor on GitHub](https://github.com/vrash/Slartibartfast/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I currently work at a pre-unicorn fintech startup called [Bankbazaar.com](https://en.wikipedia.org/wiki/BankBazaar), in Bangalore, India. Bankbazaar is funded by Amazon(amongst others) and we're building some exciting things on the [app](https://play.google.com/store/apps/details?id=com.bankbazaar.app&hl=en) (Personal Finance, Finance 101) and the [website](https://www.bankbazaar.com/) (Credit tracker with Experian, Mutual funds etc.,), and I spearhead mobile engineering. My team of fantastic(ex Amazon,Samsung,Google) engineers, build the mobile apps (native apps/backend/infrastructure/automation) for Bankbazaar. I keep them happy, focused, motivated and excited about the vision, by being a hands on engineering manager, and we've moved all important metrics by 3 digit %'s.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I've worked at small and large companies before, but I am really enjoying working with challenges that come with growing at scale. I've learnt more from failure (stint at ImagineK12/Y Combinator) than I have from success (Oracle/Bosch/BankBazaar). 
 
-### Markdown
+I have close to 9 years of desktop/backend/mobile programming. I also have experience with competitive coding on [Hackerrank](https://www.hackerrank.com/slartibartfast), [InterviewBit](https://www.interviewbit.com/profile/vrashabh_irde) and I am currently fighting bots on [Codefights](https://codefights.com/profile/slartibartfast). I love [organizing](https://blog.bankbazaar.com/hack-fun/) and participating in hackathons, and using my 20% time in companies to execute projects that improve engineering culture. 
+But, I have found my calling in being a hands on technical engineering leader of people for the last 3.5 years.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I am interested in:
+* Building and Shipping software products that solve real world problems
+* Building great engineering teams and creating launchpads for engineers
 
-```markdown
-Syntax highlighted code block
+In my spare time(like that's a thing) - I support Liverpool football club (YNWA!), headbang and play guitar, travel the world with my wife (8 countries and counting), learn new languages (ola), tinker with gadgets and read more than I can chew (Love HHTG, title reference)
 
-# Header 1
-## Header 2
-### Header 3
+### Portfolio: 
 
-- Bulleted
-- List
+- [![foo](http://stackexchange.com/users/flair/1085543.png)](https://www.stackoverflow.com/story/slartibartfast)
+- [LinkedIn](https://goo.gl/idUZBi)
+- [Blog](https://goo.gl/59s9aL)
+- [Quora](https://goo.gl/elppwt)
+- [Resume](https://drive.google.com/file/d/0BzQVNQrJ_A3xZnVSamxGaldjYnc/view?usp=sharing)
+- [Product Hunt](https://www.producthunt.com/@vrashabh)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### Contact
+- Mail-to: vrashabh86@gmail.com
+- Twitter: [@vrashabh](https://twitter.com/vrashabh)
+- Skype: vrashabhirde
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vrash/Slartibartfast/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Keywords
+ - Java; Objective-C; C++; C; SQL; Algorithms;
+ - Android studio, IntelliJ, Visual Studio; Microsoft SQL Server; Eclipse; XCode
+ - People management; Career Trajectory management; Agile methodology; Project management;
