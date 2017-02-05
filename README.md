@@ -8,6 +8,7 @@ I have close to 9 years of desktop/backend/mobile programming. I also have exper
 But, I have found my calling in being a hands on technical engineering leader of people for the last 3.5 years.
 
 I am interested in:
+
 - Building and Shipping software products that solve real world problems
 - Building great engineering teams and creating launchpads for engineers
 
