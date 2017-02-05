@@ -4,7 +4,7 @@ I currently work at a pre-unicorn fintech startup called [Bankbazaar.com](https:
 
 I've worked at small and large companies before, but I am really enjoying working with challenges that come with growing at scale. I've learnt more from failure (stint at ImagineK12/Y Combinator) than I have from success (Oracle/Bosch/BankBazaar). 
 
-I have close to 9 years of desktop/backend/mobile programming. I also have experience with competitive coding on [Hackerrank](https://www.hackerrank.com/slartibartfast), [InterviewBit](https://www.interviewbit.com/profile/vrashabh_irde) and I am currently fighting bots on [Codefights](https://codefights.com/profile/slartibartfast). I love [organizing](https://blog.bankbazaar.com/hack-fun/) and participating in hackathons, and using my 20% time in companies to execute projects that improve engineering culture. 
+I have close to 9 years of desktop/backend/mobile programming. I also have experience with competitive coding on [Hackerrank](https://www.hackerrank.com/slartibartfast), [InterviewBit](https://www.interviewbit.com/) and I am currently fighting bots on [Codefights](https://codefights.com/profile/slartibartfast). I love [organizing](https://blog.bankbazaar.com/hack-fun/) and participating in hackathons, and using my 20% time in companies to execute projects that improve engineering culture. 
 But, I have found my calling in being a hands on technical engineering leader of people for the last 3.5 years.
 
 I am interested in:
