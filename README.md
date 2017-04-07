@@ -1,11 +1,12 @@
 
+### Portfolio
 [![foo](http://stackexchange.com/users/flair/1085543.png)](https://www.stackoverflow.com/story/slartibartfast)   
 
 
 [view](https://goo.gl/idUZBi)<b>LinkedIN</b>      [read](https://goo.gl/59s9aL)<b>Blog</b>      [follow](https://goo.gl/elppwt)<b>Quora</b>   [view](https://drive.google.com/file/d/0BzQVNQrJ_A3xZnVSamxGaldjYnc/view?usp=sharing)<b>Resume</b>      [follow](https://www.producthunt.com/@vrashabh)<b>pH</b>
     [follow](https://twitter.com/vrashabh)<b>twitter</b>
 
-
+### About me
 The name is <b>Irde</b>. {Dramatic pause} <b>Vrashabh Irde</b>. :) 
 
 I currently work at a pre-unicorn fintech startup called [Bankbazaar.com](https://en.wikipedia.org/wiki/BankBazaar), in Bangalore, India. Bankbazaar is funded by Amazon(amongst others) and we're building some exciting things on the [app](https://play.google.com/store/apps/details?id=com.bankbazaar.app&hl=en) (Personal Finance, Finance 101) and the [website](https://www.bankbazaar.com/) (Credit tracker with Experian, Mutual funds etc.,), and I spearhead mobile engineering. My team of fantastic(ex Amazon,Samsung,Google) engineers, build the mobile apps (native apps/backend/infrastructure/automation) for Bankbazaar. I keep them happy, focused, motivated and excited about the vision, by being a hands on engineering manager, and we've moved all important metrics by 3 digit %'s.
