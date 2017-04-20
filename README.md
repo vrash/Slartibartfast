@@ -3,7 +3,7 @@
 [![foo](http://stackexchange.com/users/flair/1085543.png)](https://www.stackoverflow.com/story/slartibartfast)   
 
 
-[follow](https://goo.gl/idUZBi)<b>LinkedIN</b> &nbsp;&nbsp;&nbsp; [read](https://goo.gl/59s9aL)<b>Blog</b>  &nbsp;&nbsp;&nbsp;  [follow](https://goo.gl/elppwt)<b>Quora</b>  &nbsp;&nbsp;&nbsp;   [view](https://drive.google.com/file/d/0BzQVNQrJ_A3xZnVSamxGaldjYnc/view?usp=sharing)<b>Resume</b>  &nbsp;&nbsp;&nbsp;     [follow](https://www.producthunt.com/@vrashabh)<b>PH</b>&nbsp;&nbsp;&nbsp;
+[follow](https://goo.gl/idUZBi)<b>LinkedIN</b> &nbsp;&nbsp;&nbsp; [read](https://goo.gl/59s9aL)<b>Blog</b>  &nbsp;&nbsp;&nbsp;  [follow](https://goo.gl/elppwt)<b>Quora</b>  &nbsp;&nbsp;&nbsp;   [view](https://drive.google.com/file/d/0BzQVNQrJ_A3xbzdNMFVPM0Vfdlk/view?usp=sharing)<b>Resume</b>  &nbsp;&nbsp;&nbsp;     [follow](https://www.producthunt.com/@vrashabh)<b>PH</b>&nbsp;&nbsp;&nbsp;
     [follow](https://twitter.com/vrashabh)<b>Twitter</b>
 
 ### About me
