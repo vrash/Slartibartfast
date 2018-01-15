@@ -14,7 +14,7 @@ I have close to 10 years of desktop/backend/mobile programming and about 4 years
 I've worked at small and large companies before, but I am really enjoying working with challenges that come with growing at scale. I've learnt more from failure (stint at ImagineK12 (Now a part of Y-Combinator)), than I have from success (Oracle/Bosch/BankBazaar). 
 But, I have found my calling in being an engineering leader of people for the last 4 years.
 
-I am software development manager at Amazon where I manage Machine learning scientists and development engineers and we are building world class bidding models.
+I am a software development manager at Amazon where I manage Machine learning scientists and development engineers and we are building world class bidding models.
 
 My core interests lie in:
 
