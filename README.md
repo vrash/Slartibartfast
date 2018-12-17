@@ -9,10 +9,10 @@
 ### About me
 The name is <b>Irde</b>. {Dramatic pause} <b>Vrashabh Irde</b>. :) 
 
-I have more than 10 years of desktop/backend/mobile programming of which about 4 years managing other people like me. 
+I have more than 10 years of desktop/backend/mobile programming of which 4 years managing other people like me. 
 I've worked at small and large companies before, but I am really enjoying working with challenges that come with growing at scale. I've learnt more from failure (stint at ImagineK12 (Now a part of Y-Combinator)), than I have from success. But, I have found my calling in being an engineering leader of people for the last 4 years.
 
-I am currently a senior [engineering manager](https://medium.com/carwow-product-engineering/the-engineering-manager-readme-a0d398f46e82) at [carwow](www.carwow.co.uk), a tech startup in London. I moved here from Amazon in Edinburgh where I lead a ML team in advertising. 
+I am currently a senior [engineering manager](https://medium.com/carwow-product-engineering/the-engineering-manager-readme-a0d398f46e82) at [carwow](www.carwow.co.uk), a tech startup in London. I moved here from Amazon in Edinburgh where I lead a ML team in advertising. I also mentor other engineering leaders on [Plato](https://www.platohq.com/)
 
 My core interests lie in:
 
