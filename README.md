@@ -16,6 +16,12 @@ Finance, Education, Advertising, Retail
 - [Interview engineers like a Reverse Bloom Filter](https://whizmodo.wordpress.com/2015/02/25/interview-engineers-like-a-reverse-bloom-filter/)
 - [Summarizing Sam Altmans CS183 classes](https://whizmodo.wordpress.com/2014/09/25/sam-altmans-cs183b-class-0/)
 
+### Values I deeply care about
+- Customer Obsession: Building products start and end with customers
+- Empathy: Products are built by people for people. I care about empathy at every stage in that process. 
+- Ownership: Own successes and failures passionately
+- Leadership: Lead from the front. Listen before speaking. 
+- Honesty: Always tell the truth, no matter how awkward. 
 
 ### Who am I ? 
 The name is <b>Irde</b>. {Dramatic pause} <b>Vrashabh Irde</b>. :) 
