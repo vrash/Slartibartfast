@@ -16,6 +16,9 @@ Finance, Education, Advertising, Retail
 - [Interview engineers like a Reverse Bloom Filter](https://whizmodo.wordpress.com/2015/02/25/interview-engineers-like-a-reverse-bloom-filter/)
 - [Summarizing Sam Altmans CS183 classes](https://whizmodo.wordpress.com/2014/09/25/sam-altmans-cs183b-class-0/)
 
+I am passionate about engineering management. Co-creator of [Engineering leadership London](https://www.meetup.com/Engineering-leadership-Unconference/) meetup group which grows strong everyday. I also mentor other engineering leaders on [Plato](https://www.platohq.com/)
+
+
 ### Values I deeply care about
 - Customer Obsession: Building products start and end with customers
 - Empathy: Products are built by people for people. I care about empathy at every stage in that process. 
@@ -29,8 +32,7 @@ The name is <b>Irde</b>. {Dramatic pause} <b>Vrashabh Irde</b>. :)
 I have close to 11 years of desktop/backend/mobile programming of which 4 years managing other people like me. 
 I've worked at small and large companies before, but I am really enjoying working with challenges that come with growing at scale. I've learnt more from failure (stint at ImagineK12 (Now a part of Y-Combinator)), than I have from success. But, I have found my calling in being an engineering leader of people for the last 4 years.
 
-I am currently a senior [engineering manager](https://medium.com/carwow-product-engineering/the-engineering-manager-readme-a0d398f46e82) at [carwow](www.carwow.co.uk), a tech startup in London. I moved here from Amazon in Edinburgh where I lead a ML team in advertising. I also mentor other engineering leaders on [Plato](https://www.platohq.com/)
-
+I am currently a senior [engineering manager](https://medium.com/carwow-product-engineering/the-engineering-manager-readme-a0d398f46e82) at [carwow](www.carwow.co.uk), a tech startup in London. I moved here from Amazon in Edinburgh where I lead a ML team in advertising. 
 My core interests lie in:
 
 - Building great engineering teams and creating launchpads for engineers 
