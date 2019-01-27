@@ -27,7 +27,7 @@ I am passionate about engineering management. Co-creator of [Engineering leaders
 - Honesty: Always tell the truth, no matter how awkward. 
 
 ### Who am I ? 
-The name is <b>Irde</b>. {Dramatic pause} <b>Vrashabh Irde</b>. :) 
+My name is Vrashabh Irde. Hi! :) 
 
 I have close to 11 years of desktop/backend/mobile programming of which 6+ years managing other people like me. 
 I've worked at small and large companies before, but I am really enjoying working with challenges that come with growing at scale. I've learnt more from failure (stint at ImagineK12 (Now a part of Y-Combinator)), than I have from success. But, I have found my calling in being an engineering leader of people for the last 6+ years.
