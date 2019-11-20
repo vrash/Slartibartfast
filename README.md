@@ -7,7 +7,7 @@
     [follow](https://twitter.com/vrashabh)<b>Twitter</b>
 
 ### Problem spaces I care about
-Intersection of Finance, Education, Advertising, Retail with technology
+Intersection of Finance | Education | Advertising | Retail with technology
 
 ### Things I've written on Engineering Management and startups
 - [Engineering management as a Socratic Dialogue](https://medium.com/carwow-product-engineering/engineering-management-as-a-socratic-dialogue-25918232439f)
@@ -18,7 +18,7 @@ Intersection of Finance, Education, Advertising, Retail with technology
 - [Interview engineers like a Reverse Bloom Filter](https://whizmodo.wordpress.com/2015/02/25/interview-engineers-like-a-reverse-bloom-filter/)
 - [Summarizing Sam Altmans CS183 classes](https://whizmodo.wordpress.com/2014/09/25/sam-altmans-cs183b-class-0/)
 
-I am passionate about engineering management. I am a Co-creator of [Engineering leadership London](https://www.meetup.com/Engineering-leadership-Unconference/) meetup group which grows strong everyday. I also mentor other engineering leaders on [Plato](https://www.platohq.com/)
+I am passionate about engineering management. I am a Co-creator of [Engineering leadership London](https://www.meetup.com/Engineering-leadership-Unconference/) meetup group which grows strong everyday. I also mentor other engineering leaders on [Plato](https://community.platohq.com/mentors/vrashabh-irde)
 
 
 ### Values I deeply care about
