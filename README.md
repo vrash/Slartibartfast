@@ -7,7 +7,7 @@
     [follow](https://twitter.com/vrashabh)<b>Twitter</b>
 
 ### Problem spaces I care about
-Finance, Education, Advertising, Retail
+Intersection of Finance, Education, Advertising, Retail with technology
 
 ### Things I've written on Engineering Management and startups
 - [Engineering management as a Socratic Dialogue](https://medium.com/carwow-product-engineering/engineering-management-as-a-socratic-dialogue-25918232439f)
@@ -40,7 +40,7 @@ I am currently the head of engineering at [carwow](www.carwow.co.uk), a tech sta
 
 My core interests lie in:
 
-- Building great engineering teams and creating launchpads for engineers 
+- Building great engineering teams and creating launchpads for engineers and engineering managers
 - Building and Shipping software products that solve real world problems
 
 In my spare time(like that's a thing) - I support Liverpool football club (YNWA!), headbang and play guitar(badly), travel the world with my wife (9 countries and counting), learn new languages (ola!), tinker with gadgets and read more than I can chew (Love [H2G2](https://goo.gl/zPtMwn) - title reference)
@@ -51,6 +51,7 @@ In my spare time(like that's a thing) - I support Liverpool football club (YNWA!
 - [Vidyanext Learning platform](https://vidyanext.com/)
 - [Zoomlee](http://zoomlee.com/index.html)
 - [Carwow configurator](www.carwow.co.uk)
+
 
 ### Contact
 - Mail-to: vrashabh86@gmail.com
