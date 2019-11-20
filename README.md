@@ -10,6 +10,7 @@
 Finance, Education, Advertising, Retail
 
 ### Things I've written on Engineering Management and startups
+- [Engineering management as a Socratic Dialogue](https://medium.com/carwow-product-engineering/engineering-management-as-a-socratic-dialogue-25918232439f)
 - [Career progression at carwow](https://medium.com/carwow-product-engineering/engineering-progression-at-carwow-bee8337ec05d)
 - [The Engineering Manager README](https://medium.com/carwow-product-engineering/the-engineering-manager-readme-a0d398f46e82)
 - [Help yourself to better 1:1s](https://medium.com/carwow-product-engineering/help-yourself-to-better-1-1s-27c25f7d8d1e)
@@ -17,16 +18,17 @@ Finance, Education, Advertising, Retail
 - [Interview engineers like a Reverse Bloom Filter](https://whizmodo.wordpress.com/2015/02/25/interview-engineers-like-a-reverse-bloom-filter/)
 - [Summarizing Sam Altmans CS183 classes](https://whizmodo.wordpress.com/2014/09/25/sam-altmans-cs183b-class-0/)
 
-I am passionate about engineering management. Co-creator of [Engineering leadership London](https://www.meetup.com/Engineering-leadership-Unconference/) meetup group which grows strong everyday. I also mentor other engineering leaders on [Plato](https://www.platohq.com/)
+I am passionate about engineering management. I am a Co-creator of [Engineering leadership London](https://www.meetup.com/Engineering-leadership-Unconference/) meetup group which grows strong everyday. I also mentor other engineering leaders on [Plato](https://www.platohq.com/)
 
 
 ### Values I deeply care about
 - Customer Obsession: I care deeply about going the extra mile for customers. Building products start and end with customers
 - Empathy: Products are built by humans for humans (mostly). I care about empathy at every stage in that process. 
-- Ownership: I like to own successes and failures passionately
+- Ownership: I like my teams to own successes and failures passionately
 - Clarity: I will strive for bringing clarity to everything. (You'll hear me say this word the most)
-- Humility: I am confident but will always default to being humble 
+- Humility: I am confident but will always default to being painfully humble 
 - Learning: I am always looking to learn and at doing things better
+The best teams I managed cared about the same things. 
 
 ### Who am I ? 
 My name is Vrashabh Irde. Hi! :) 
