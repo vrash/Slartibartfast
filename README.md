@@ -7,7 +7,7 @@
     [follow](https://twitter.com/vrashabh)<b>Twitter</b>
 
 ### Problem spaces I care about
-Intersection of Finance | Education | Advertising | Retail with technology
+Intersection of `Finance | Education | Advertising | Retail | <Hard problem space>` with technology
 
 ### Things I've written on Engineering Management and startups
 - [Engineering management as a Socratic Dialogue](https://medium.com/carwow-product-engineering/engineering-management-as-a-socratic-dialogue-25918232439f)
