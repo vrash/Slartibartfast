@@ -19,7 +19,7 @@ Intersection of `Finance | Education | Advertising | Retail | <Hard problem spac
 - [Summarizing Sam Altmans CS183 classes](https://whizmodo.wordpress.com/2014/09/25/sam-altmans-cs183b-class-0/)
 
 The note on 1-1's is also now in a book by Camille Fournier (and I am on the cover too, which is exciting) - buy it [here](https://www.amazon.co.uk/Things-Every-Engineering-Manager-Should-ebook/dp/B081TPX6NS/ref=sr_1_1?keywords=97+things+every+engineering+manager&qid=1575657948&sr=8-1)!
-![](https://covers.oreillystatic.com/images/0636920251835/lrg.jpg)
+<img src="https://covers.oreillystatic.com/images/0636920251835/lrg.jpg" alt="book" width="300"/>
 
 I am passionate about engineering management. I am a Co-creator of [Engineering leadership London](https://www.meetup.com/Engineering-leadership-Unconference/) meetup group which grows strong everyday. I also mentor other engineering leaders on [Plato](https://community.platohq.com/mentors/vrashabh-irde)
 
