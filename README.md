@@ -38,10 +38,10 @@ The best teams I managed cared about the same things.
 ### Who am I ? 
 My name is Vrashabh Irde. Hi! :) 
 
-I have 12+ years of desktop/backend/mobile programming of which, 6+ years of managing other people like me. 
-I've worked at small and large companies before, but I am really enjoying working with challenges that come with growing at scale. I've learnt more from failure (stint at ImagineK12 (Now a part of Y-Combinator)), than I have from success. But, I have found my calling in being an engineering leader of people for the last 6+ years.
+I have 13+ years of desktop/backend/mobile programming of which, 7+ years of managing other people like me. 
+I've worked at small and large companies before, but I am really enjoying working with challenges that come with growing at scale. I've learnt more from failure (like my stint at ImagineK12/y-combinator), than I have from success. But, I have found my calling in being an engineering leader of people for the last 6+ years.  I'm a vocal advocate for improve D&I, mental health efforts, and being conscious about neurodiversity (I have ADHD). 
 
-I am currently the head of engineering at [carwow](www.carwow.co.uk), a tech startup in London. I moved here from Amazon in Edinburgh where I lead a ML team in advertising. 
+I am currently the head of engineering at [carwow](www.carwow.co.uk), a tech startup in London. I moved here from Amazon in Edinburgh where I lead a ML team in advertising. We're building a EU multi country distributed engineering team, as we build a global car marketplace. Come [join us](www.carwow.co.uk/jobs):) 
 
 My core interests lie in:
 
