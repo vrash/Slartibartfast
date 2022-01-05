@@ -48,7 +48,7 @@ My core interests lie in:
 - Building great engineering teams and creating launchpads for engineers and engineering managers
 - Building and Shipping software products that solve real world problems
 
-In my spare time(like that's a thing) - I support Liverpool football club (YNWA!), headbang and play guitar(badly), travel the world with my wife (9 countries and counting), learn new languages (ola!), tinker with gadgets and read more than I can chew (Love [H2G2](https://goo.gl/zPtMwn) - title reference)
+In my spare time(like that's a thing) - I support Liverpool football club (YNWA!), headbang and play guitar(badly), travel the world with my wife (12 countries and counting), learn new languages (ola!), tinker with gadgets and read more than I can chew (Love [H2G2](https://goo.gl/zPtMwn) - title reference)
 
 ### Cool things I've had a hand in building or my teams have built 
 - Amazon ads on websites
