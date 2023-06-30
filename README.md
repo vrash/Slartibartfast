@@ -2,6 +2,8 @@
 ### Portfolio
 [![foo](http://stackexchange.com/users/flair/1085543.png)](https://www.stackoverflow.com/story/slartibartfast)   
 
+👋🏼 Hi, I'm Vrash, a technology executive and leader passionate about building inclusive, high-performing engineering and product organizations. I have 15+ years of software product building experience, 10+ years of managing awesome humans, and 4+ years of manager management experience. I love developing 0-1 playbooks for startups and scaleups and scaling up engineering organizations. I value customer obsession, empathy, integrity, radical transparency, and agency. I believe in the power of small, high-performing teams and the human side of building organizations and servant leadership. 
+
 [follow](https://goo.gl/idUZBi)<b>LinkedIN</b> &nbsp;&nbsp;&nbsp; [read](https://goo.gl/59s9aL)<b>Blog</b>  &nbsp;&nbsp;&nbsp;  [follow](https://goo.gl/elppwt)<b>Quora</b>  &nbsp;&nbsp;&nbsp;   [view](https://drive.google.com/file/d/19jjpXbbaucLbdqqtVm-Rkviic6rDKy_r/view?usp=drivesdk)<b>Resume</b>  &nbsp;&nbsp;&nbsp;     [follow](https://www.producthunt.com/@vrashabh)<b>PH</b>&nbsp;&nbsp;&nbsp;
     [follow](https://twitter.com/vrashabh)<b>Twitter</b>
 
