@@ -35,16 +35,14 @@ I am passionate about engineering management. I am a Co-creator of [Engineering 
 - Clarity: I will strive for bringing clarity to everything. (You'll hear me say this word the most)
 - Humility: I am confident but will always default to being painfully humble 
 - Learning: I am always looking to learn and at doing things better
-The best teams I managed cared about the same things. 
 
 ### Core Interests:
 
 - Building great engineering teams and creating launchpads for engineers and engineering managers
 - Building and Shipping software products that solve real world problems
+  
 
-In my spare time(like that's a thing) - I support Liverpool football club (YNWA!), headbang and play guitar(badly), travel the world with my wife (12 countries and counting), learn new languages (ola!), tinker with gadgets and read more than I can chew (Love [H2G2](https://goo.gl/zPtMwn) - title reference)
-
-### Cool things I've had a hand in building or my teams have built 
+### Important things I've had a hand in building
 
 - [Carwow](www.carwow.co.uk)
 - Amazon ads on websites
