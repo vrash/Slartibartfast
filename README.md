@@ -1,9 +1,8 @@
 
 ### Portfolio
-[![foo](http://stackexchange.com/users/flair/1085543.png)](https://stackoverflow.com/users/1081340/vrashabh-irde)   
+[![foo](http://stackexchange.com/users/flair/1085543.png)](https://stackoverflow.com/users/1081340/vrashabh-irde)  
 
-[follow](https://goo.gl/idUZBi)<b>LinkedIN</b> &nbsp;&nbsp;&nbsp; [read](https://goo.gl/59s9aL)<b>Blog</b>  &nbsp;&nbsp;&nbsp;  [follow](https://goo.gl/elppwt)<b>Quora</b>  &nbsp;&nbsp;&nbsp;   [view](https://drive.google.com/file/d/19jjpXbbaucLbdqqtVm-Rkviic6rDKy_r/view?usp=drivesdk)<b>Resume</b>  &nbsp;&nbsp;&nbsp;     [follow](https://www.producthunt.com/@vrashabh)<b>PH</b>&nbsp;&nbsp;&nbsp;
-    [follow](https://twitter.com/vrashabh)<b>Twitter</b>
+[Twitter](https://twitter.com/vrashabh)
 
 
 👋🏼 Hi, I'm Vrash, a technology executive and leader passionate about building inclusive, high-performing engineering and product organizations. I have 15+ years of software product building experience, 10+ years of managing awesome humans, and 4+ years of manager management experience. I love developing 0-1 playbooks for startups and scaleups and scaling up engineering organizations. I value customer obsession, empathy, integrity, radical transparency, and agency. I believe in the power of small, high-performing teams and the human side of building organizations and servant leadership. 
@@ -31,21 +30,6 @@ The note on 1-1's is also now in a book by Camille Fournier - buy it [here](http
 I am a Co-creator of [Engineering leadership London](https://www.meetup.com/Engineering-leadership-Unconference/) meetup group which grows strong everyday, come join us!. I also used to mentor other engineering leaders on [Plato](https://community.platohq.com/mentors/vrashabh-irde) but I have currently paused this because Plato [deliberately](https://blog.pragmaticengineer.com/quit-mentoring-at-plato/) hides the fact that they are a network of unpaid volunteers, and I'd rather support folks directly.
 
 
-### Values I deeply care about
-
-- Customer Obsession: I care deeply about going the extra mile for customers. Building products start and end with customers
-- Empathy: Products are built by humans for humans (mostly). I care about empathy at every stage in that process. 
-- Ownership: I like my teams to own successes and failures passionately
-- Clarity: I will strive for bringing clarity to everything. (You'll hear me say this word the most)
-- Humility: I am confident but will always default to being painfully humble 
-- Learning: I am always looking to learn and at doing things better
-
-### Core Interests:
-
-- Building great engineering teams and creating launchpads for engineers and engineering managers
-- Building and Shipping software products that solve real world problems
-  
-
 ### Important things I've had a hand in building
 
 - [Carwow](www.carwow.co.uk)
@@ -58,8 +42,4 @@ I am a Co-creator of [Engineering leadership London](https://www.meetup.com/Engi
 - Mail-to: vrashabh86@gmail.com
 - Skype: vrashabhirde
 
-### Recommended most on {Key Skillsets}
- - People management; Career Trajectory management; Agile Project management; Problem solving;
- - Stakeholder management; Partner/Vendor management;
- - Java; Android; Python; SQL; Algorithms; Scalable architecture design; C#; Oracle dB;
 
